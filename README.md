@@ -5,7 +5,7 @@
 
 ### **Having fun with these stack**
 
-<p align="center">
+<p>
       <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="50" height="50"/> 
       <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/> 
