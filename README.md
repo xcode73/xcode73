@@ -27,4 +27,4 @@
 <a href="https://linkedin.com/in/xcode73">
   <img align="left" alt="Nikolai's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
- | <samp>Check out my repos ⬇️</samp>
+ | &nbsp &nbsp <samp>Check out my repos ⬇️</samp>
