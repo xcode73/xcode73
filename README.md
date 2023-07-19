@@ -6,13 +6,13 @@
 ### **Having fun with these stack**
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="50" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="50" height="50"/>
       
 </p>
 
