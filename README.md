@@ -5,15 +5,37 @@
 
 ### **Having fun with these stack**
 
-<p>
-      <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="50" height="50"/> 
-      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/> 
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="50" height="50"/>
-      
+<p align="left"> 
+      <a href="https://developer.apple.com/swift/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+      </a>
+      <a href="https://www.discourse.org" target="_blank"> 
+            <img src="https://d11a6trkgmumsb.cloudfront.net/original/3X/9/a/9af9456df3a40537038643d987ffcbd553ad3296.svg" alt="discourse" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.figma.com/" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+      </a> 
+      <a href="https://firebase.google.com/" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+      </a> 
+      <a href="https://git-scm.com/" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.w3.org/html/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      </a>
+      <a href="https://www.mysql.com/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+      </a>
+      <a href="https://postman.com" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+      </a> 
+      <a href="https://realm.io/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.sqlite.org/" target="_blank"> 
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+      </a> 
 </p>
 
 ----
