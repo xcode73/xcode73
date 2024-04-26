@@ -46,7 +46,7 @@
 <a href="https://www.instagram.com/nikolai.xcode/">
   <img align="left" alt="Nikolai's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://linkedin.com/in/xcode73">
+<a href="https://linkedin.com/in/nikolai-dev">
   <img align="left" alt="Nikolai's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
  | &nbsp &nbsp <samp>Check out my repos ⬇️</samp>
